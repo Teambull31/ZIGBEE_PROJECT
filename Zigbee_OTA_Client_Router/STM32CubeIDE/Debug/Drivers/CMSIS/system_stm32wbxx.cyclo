@@ -1,0 +1,8 @@
+stm32wbxx_ll_rcc.h:4128:26:LL_RCC_IsActiveFlag_OBLRST	2
+stm32wbxx_ll_rcc.h:4148:26:LL_RCC_IsActiveFlag_SFTRST	2
+system_stm32wbxx.c:195:13:BootModeCheck	8
+system_stm32wbxx.c:281:13:JumpSelectionOnPowerUp	2
+system_stm32wbxx.c:322:13:JumpFwApp	1
+system_stm32wbxx.c:344:16:CheckFwAppValidity	5
+system_stm32wbxx.c:401:6:SystemInit	1
+system_stm32wbxx.c:489:6:SystemCoreClockUpdate	7
